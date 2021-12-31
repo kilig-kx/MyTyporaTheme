@@ -83,11 +83,12 @@ body {
 
 /* 高亮 */
 #write mark {
-  background-color: #f9f2f4;
+  /* background-color: #f9f2f4; */
   border-radius: 0.3rem;
   padding: 2px 4px;
   margin: 0 2px;
-  color: #c7254e;
+  /* color: #c7254e; */
+  background: #D3D3D3;
 }
 
 
@@ -513,13 +514,17 @@ padding-left: 4px;
 tt {
     /* padding: 1px 2px; */
     /* border: 1px solid #e7eaed; */
-    padding: 2px 4px 0px 4px;
+    /* padding: 2px 4px 0px 4px;
     border-radius: 2px;
-    font-family: var(--font-monospace);
+    font-family: var(--font-monospace); */
     /* font-family: 'Source Code Pro', 'Microsoft YaHei'!important; */
-    font-size: 0.9rem;
-    color: #FF0000;
-    background-color: #FAEAEB;
+    /* font-size: 0.9rem; */
+    /* color: #FF0000;
+    background-color: #FAEAEB; */
+    border-radius: 0.3rem;
+    padding: 2px 4px;
+    margin: 0 2px;
+    background-color: #D3D3D3;
 }
 
 tt {
